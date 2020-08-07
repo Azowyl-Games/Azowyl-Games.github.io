@@ -113,3 +113,7 @@ body {
   .align-center {
       align-self: center;
   }
+
+  #arrow_down:hover {
+      cursor: pointer;
+  }

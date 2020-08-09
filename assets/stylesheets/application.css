@@ -41,8 +41,8 @@ body {
     font-weight: lighter;
 }
 
-.mumet {
-    font-family: 'Mumet Mikir Regular', Fallback, sans-serif;;
+.reman {
+    font-family: 'Reman', Fallback, sans-serif;;
     font-weight: lighter;
 }
 
@@ -119,8 +119,8 @@ button:hover {
 }
 
 @font-face {
-    font-family: 'Mumet Mikir Regular';
+    font-family: 'Reman';
     font-style: normal;
     font-weight: normal;
-    src: local('Mumet Mikir Regular'), url('../fonts/MumetMikir-x38PR.woff') format('woff');
+    src: local('Reman'), url('../fonts/Reman.ttf') format('truetype');
 }
